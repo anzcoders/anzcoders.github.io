@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: ANZ Coders
+email: admin@anzcoders.com
+description: "Virtual conference for Australian and New Zealand software developers"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,31 +11,29 @@ color:
   
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: ANZ Coders
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Contact Us
+  credits: Theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/anzcoders
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: youtube
+    url: http://youtube.com/anzcoders
+  - title: envelope-o
+    url: mailto:contact@anzcoders.com
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: On a screen near you.
+  - line: Your place. Your device.
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelance Theme courtesy of <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
