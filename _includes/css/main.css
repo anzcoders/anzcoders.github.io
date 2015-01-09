@@ -25,10 +25,6 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
-#FAQ a {
-    color: #{{ site.color.secondary-dark }};
-}
-
 h1,
 h2,
 h3,
@@ -438,6 +434,11 @@ footer .footer-below {
     transform: rotate(45deg);
 }
 
+header {
+    background-image: url("img/background.jpg");
+    background-size: cover;
+}
+
 .speakers-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
@@ -446,4 +447,12 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+#FAQ a {
+    color: #{{ site.color.secondary-dark }};
+}
+
+#FAQ h4 {
+    color: #{{ site.color.secondary-light }};
 }
