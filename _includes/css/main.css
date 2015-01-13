@@ -485,3 +485,7 @@ header {
 #FAQ h4 {
     color: #{{ site.color.secondary-light }};
 }
+
+#submissions a.light {
+    color: #{{ site.color.secondary-dark }};
+}
