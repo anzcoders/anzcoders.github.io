@@ -26,6 +26,12 @@ social:
   - title: envelope-o
     url: mailto:contact@anzcoders.com
 
+#sponsors
+sponsors:
+  - title: Readify
+    img: readify.png
+    url: http://readify.net
+
 # Postal address (add as many lines as necessary)
 address:
   - line: On a screen near you.

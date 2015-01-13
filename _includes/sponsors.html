@@ -1,0 +1,25 @@
+
+    <!-- sponsors Section -->
+    <section id="sponsors">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Sponsors</h2>
+                    <hr class="star-secondary">
+                    <p>ANZ Coders thank the following companies for their generous community support! You should support them too.</p>
+                </div>
+            </div>
+            <div class="row">
+            <ul class="list-inline">
+                    <div class="col-sm-3 sponsor-item">
+                    </div>
+                    {% for sponsor in site.sponsors %}
+                    <div class="col-sm-3 sponsor-item">
+                        <a href="{{ sponsor.url }}" class="sponsor-link">
+                            <img src="img/sponsors/{{ sponsor.img }}" class="img-responsive" alt="{{ sponsor.title }}">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
