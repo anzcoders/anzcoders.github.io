@@ -489,3 +489,10 @@ header {
 #submissions a.light {
     color: #{{ site.color.secondary-dark }};
 }
+
+#voting .cta {
+    display: block;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+}
