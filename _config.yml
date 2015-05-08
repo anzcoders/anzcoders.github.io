@@ -31,6 +31,9 @@ sponsors:
   - title: Readify
     img: Readify.png
     url: http://readify.net
+  - title: Crowdcast
+    img: cc-200.png
+    url: http://crowdcast.io
 
 # Postal address (add as many lines as necessary)
 address:
