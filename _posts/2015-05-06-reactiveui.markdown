@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2015-05-26 21:30:00 +1000
+date: 2015-05-26 21:30:00+1000
 img: brendan_forster.png
 speaker: Brendan Forster
 session-time: Tuesday 26th, 9.30 pm

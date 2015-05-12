@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 8
-date: 2015-05-27 20:45:00 +1000
+date: 2015-05-27 20:45:00+1000
 img: poya_manouchehri.png
 speaker: Poya Manouchehri
 session-time: Wednesday 27th, 8.45 pm

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2015-05-25 20:45:00 +1000
+date: 2015-05-25 20:45:00+1000
 img: david_gardiner.png
 speaker: David Gardiner
 session-time: Monday 25th, 8.45 pm

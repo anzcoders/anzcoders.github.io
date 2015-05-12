@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 15
-date: 2015-05-29 21:30:00 +1000
+date: 2015-05-29 21:30:00+1000
 img: rob_moore.png
 speaker: Rob Moore
 session-time: Friday 29th, 9.30 pm

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 9
-date: 2015-05-27 21:30:00 +1000
+date: 2015-05-27 21:30:00+1000
 img: daniel_marbach.png
 speaker: Daniel Marbach
 session-time: Wednesday 27th, 9.30 pm

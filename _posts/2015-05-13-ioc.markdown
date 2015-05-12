@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 13
-date: 2015-05-29 20:00:00 +1000
+date: 2015-05-29 20:00:00+1000
 img: emad_alashi.png
 speaker: Emad Alashi
 session-time: Friday 29th, 8.00 pm

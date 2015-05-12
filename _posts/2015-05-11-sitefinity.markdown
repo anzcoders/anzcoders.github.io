@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 11
-date: 2015-05-28 20:45:00 +1000
+date: 2015-05-28 20:45:00+1000
 img: bishoy_hanna.png
 speaker: Bishoy Hanna
 session-time: Thursday 28th, 8.45 pm

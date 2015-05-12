@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2015-05-26 20:45:00 +1000
+date: 2015-05-26 20:45:00+1000
 img: mitch_denny.png
 speaker: Mitch Denny
 session-time: Tuesday 26th, 8.45 pm

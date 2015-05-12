@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 14
-date: 2015-05-29 20:45:00 +1000
+date: 2015-05-29 20:45:00+1000
 img: aaron_powell.png
 speaker: Aaron Powell
 session-time: Friday 29th, 8.45 pm

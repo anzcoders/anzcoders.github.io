@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2015-05-27 20:00:00 +1000
+date: 2015-05-27 20:00:00+1000
 img: filip_ekberg.png
 speaker: Filip Ekberg
 session-time: Wednesday 27th, 8.00 pm

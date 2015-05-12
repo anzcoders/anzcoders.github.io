@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2015-05-26 20:00:00 +1000
+date: 2015-05-26 20:00:00+1000
 img: aaron_powell.png
 speaker: Aaron Powell
 session-time: Tuesday 26th, 8.00 pm

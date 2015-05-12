@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2015-05-25 21:30:00 +1000
+date: 2015-05-25 21:30:00+1000
 img: colin_scott.png
 speaker: Colin Scott
 session-time: Monday 25th, 9.30 pm

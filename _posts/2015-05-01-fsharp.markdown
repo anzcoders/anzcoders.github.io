@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2015-05-25 20:00:00 +1000 AEST
+date: 2015-05-25 20:00:00+1000
 img: jorge_fioranelli.png
 speaker: Jorge Fioranelli
 session-time: Monday 25th, 8.00 pm
