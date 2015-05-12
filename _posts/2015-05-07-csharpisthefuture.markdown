@@ -9,3 +9,8 @@ session-title: C# is the Future
 
 ---
 The next version of C# is upon us so if you thought that this language was long forgotten by its creators come along on this journey where I’ll prove you otherwise! We will look at how C# has evolved over the years and what we might expect in the future. Are you ready to embrace the programming language of the future?
+
+<hr />
+####About Filip####
+
+Author of C# Smorgasbord. Speaker. Pluralsight author. Microsoft .NET MVP. Xamarin MVP. Works for @Invoice2Go. Swede living in Sydney!

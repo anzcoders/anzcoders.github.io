@@ -13,3 +13,7 @@ session-title: Hot Dates
 In simple cases, yes. But as soon as your application needs to deal with people and/or computers in different locations around the world (not to mention daylight saving) it may not be!
 
 This talk will demonstrate some of the approaches you can make to better handle storing, comparing and displaying globally-aware dates and times both on the server/desktop and in the browser.
+
+<hr />
+####About David####
+David Gardiner has been creating software for over 20 years and has a passion for continual learning and improving quality. He helps run the Adelaide .NET User Group and works as a Senior Software Developer at RL Solutions on healthcare software. He blogs at [http://david.gardiner.net.au](http://david.gardiner.net.au) and tweets at [@DavidRGardiner](https://twitter.com/DavidRGardiner).

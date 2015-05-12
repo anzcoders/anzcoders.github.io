@@ -10,3 +10,7 @@ session-title: Yeoman, Grunt, Gulp, Bower, Node – Client side for the new ASP.
 ---
 There’s a new world of web development out there which a bunch of funky sounding tools. If I want to build a new web application today what do I need to know about these tools? What’s the cross-over to what we’ve been doing in ASP.Net for the last 10 years? 
 Let’s take a dive into the world of front-end web tools and see why you not only should know about them but will need to know about them to build web applications in ASP.Net.
+
+<hr />
+####About Aaron####
+By day Aaron works as a Senior Consultant for Readify, but night he is an IE MVP, battling to save the world one line of JavaScript at a time. Having spoken at a number of conferences in Australia and around the world on the web it’s time to take the shenanigans to the virtual conference world and look at the state of front-end web development.

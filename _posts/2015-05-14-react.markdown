@@ -9,3 +9,7 @@ session-title: React, another JavaScript UI framework?
 
 ---
 React is still a relatively new player in the JavaScript UI framework but it’s been gaining a lot of traction and popularity. What makes React different to the others that are out there? Do people actually want to write HTML inside their JavaScript files
+
+<hr />
+####About Aaron####
+By day Aaron works as a Senior Consultant for Readify, but night he is an IE MVP, battling to save the world one line of JavaScript at a time. Having spoken at a number of conferences in Australia and around the world on the web it’s time to take the shenanigans to the virtual conference world and look at the state of front-end web development.

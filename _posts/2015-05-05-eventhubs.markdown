@@ -9,3 +9,7 @@ session-title: Azure Event Hubs
 
 ---
 In this session you will learn about Azure Event Hubs, a tool that developers can use to receive large numbers of events (up to 1,000,000 per second). You’ll learn the core concepts surrounding event hubs, how to send events, how to read events and how to all of this securely.
+
+<hr />
+####About Mitch####
+Mitch Denny is a Microsoft MVP (ALM), ASP Insider and the Chief Technology Officer of Readify. Mitch spends his time working with all kinds of organisations around their technology strategy and is particularly interested in cloud computing, mobility, ALM and DevOps and emerging trends such as the Internet-of-Things.
