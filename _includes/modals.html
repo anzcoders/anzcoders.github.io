@@ -16,13 +16,7 @@
                             <hr class="star-primary">
                             <img src="img/speakers/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <ul class="list-inline item-details">
-                                <li>When:
-                                    <strong><a href="http://anzspeakers.com/view">{{ post.session-time }}</a>
-                                    </strong>
-                                </li>
-                                <li>Category:
-                                    <strong><a href="http://anzspeakers.com/categories">{{ post.category }}</a>
-                                    </strong>
+                                <li>When: <strong>{{ post.date | date: "%c"}}</strong>
                                 </li>
                             </ul>
                             {{ post.content }}

@@ -228,17 +228,21 @@ section.success {
     margin: 0 0 15px;
 }
 
-#speakers .speakers-item .speakers-link {
+#speakers .speakers-item {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
+#speakers .speakers-item .speakers-link {
+    max-width: 200px;
+}
+
 #speakers .speakers-item .speakers-link .caption {
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 200px;
+    height: 200px;
     opacity: 0;
     background: rgba(24,188,156,.9);
     -webkit-transition: all ease .5s;
@@ -269,6 +273,17 @@ section.success {
 #speakers .speakers-item .speakers-link .caption .caption-content h4 {
     margin: 0;
 }
+
+#speakers .speakers-item .speaker-name {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+#speakers .speakers-item .session-time {
+    font-size: 15px;
+    font-style: italic;
+}
+
 
 #speakers * {
     z-index: 2;

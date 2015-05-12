@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 14
+date: 2015-05-29 20:45:00 +1000
+img: aaron_powell.png
+speaker: Aaron Powell
+session-time: Friday 29th, 8.45 pm
+session-title: React, another JavaScript UI framework?
+
+---
+React is still a relatively new player in the JavaScript UI framework but it’s been gaining a lot of traction and popularity. What makes React different to the others that are out there? Do people actually want to write HTML inside their JavaScript files

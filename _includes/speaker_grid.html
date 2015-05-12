@@ -4,28 +4,35 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Speakers</h2>
+                    <h2>Speakers &amp; Sessions</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-                    <div class="col-sm-2 speakers-item">
+                {% for post in site.posts reversed%}
+                  {% capture currentday %}{{post.date | date: "%d"}}{% endcapture %}
+                    {% if currentday != day %}
+                    <div class="col-sm-12">
+                      <h3>{{post.date |  date: "%A %b %e"}}</h3>
                     </div>
-                {% for post in site.posts reversed %}
-                    <div class="col-sm-4 speakers-item">
-                        <a href="#speakersModal-{{ post.modal-id }}" class="speakers-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
+                      {% capture day %}{{currentday}}{% endcapture %} 
+                    {% endif %}
+                    <div class="col-sm-4">
+                        <div class="speakers-item">
+                            <a href="#speakersModal-{{ post.modal-id }}" class="speakers-link" data-toggle="modal">
+                                <div class="caption">
+                                    <div class="caption-content">
+                                        <i class="fa fa-search-plus fa-3x"></i>
+                                    </div>
                                 </div>
-                            </div>
-                            <img src="img/speakers/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
+                                <img src="img/speakers/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            </a>
                             <div>
-                            {{post.session-title}}<br />
-                            Who: {{post.speaker}} <br />
-                            When: {{post.session-time}} 
+                            <h5>{{post.session-title}}</h5>
+                            <p class="speaker-name">{{post.speaker}}</p>
+                            <p class="session-time">{{post.date | date: "%I:%M %p"}}</p>
                             </div>
+                        </div>
                     </div>
                 {% endfor %}
             </div>

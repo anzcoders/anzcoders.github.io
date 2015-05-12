@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 13
+date: 2015-05-29 20:00:00 +1000
+img: emad_alashi.png
+speaker: Emad Alashi
+session-time: Friday 29th, 8.00 pm
+session-title: IoC in ASP.NET 5
+
+---
+In the last few years IoC became a de facto part of the modern application structure, especially with the interesting features the IoC containers bring along. The ASP.NET team realized this from the beginning and baked the IoC within the products (MVC, WebAPI, SignlarR), but each web product ended up having its own IoC infrastructure, making it difficult to use a unified IoC for all the different products on the new single stack with OWIN.
+
+So with the recent changes brought forward with ASP.NET 5, IoC is now deeply integrated within this single stack, providing the same infrastructure for all. In this session you will learn how the new IoC infrastructure works, what all these new “UseService” API’s are all about, and how the different IoC containers can be integrated.

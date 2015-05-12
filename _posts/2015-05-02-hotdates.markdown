@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+date: 2015-05-25 20:45:00 +1000
+img: david_gardiner.png
+speaker: David Gardiner
+session-time: Monday 25th, 8.45 pm
+session-title: Hot Dates
+
+---
+.NET has System.DateTime, JavaScript has Date - isn't that all I need? 
+
+In simple cases, yes. But as soon as your application needs to deal with people and/or computers in different locations around the world (not to mention daylight saving) it may not be!
+
+This talk will demonstrate some of the approaches you can make to better handle storing, comparing and displaying globally-aware dates and times both on the server/desktop and in the browser.
